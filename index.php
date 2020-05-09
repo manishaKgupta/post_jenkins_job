@@ -1,5 +1,5 @@
 
 <?php
 print "Welcome To my php page";
-print "My Change";
+print " Have a good day ";
 ?>
